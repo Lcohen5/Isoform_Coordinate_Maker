@@ -46,7 +46,7 @@ with open(selected_file, newline='', encoding='utf-8-sig') as csvfile:
 
 # Output result
 if coordinates:
-    print(f"\nCoordinates for selected exons from {selected_file}:")
+    print(f"\n🧬 Success! 🪰 Here are the coordinates for your selected exons from {selected_file}:")
     print(", ".join(coordinates))
 else:
     print("\nNo matching exons found.")
