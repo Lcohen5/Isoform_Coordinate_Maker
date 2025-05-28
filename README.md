@@ -20,12 +20,12 @@ cd /Users/.../Apollo_Trackmaker/input
 
 5. Activate your code by entering the following into command line
 
-chmod +x gff2_to_gff3.py
+chmod +x isoform_maker.py
 
 6. Run your code by entering **one** of the following into command line:
 
 
-  ./gff2_to_gff3.py
+  ./isoform_maker
 
 
   python isoform_maker_windows.py
