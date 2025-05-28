@@ -18,17 +18,19 @@ Developer's Note: Please note that the windows version is in beta. I recommend r
 
 cd /Users/.../Apollo_Trackmaker/input
 
-Activate your code by entering the following into command line
+5. Activate your code by entering the following into command line
 
 chmod +x gff2_to_gff3.py
 
-Run your code by entering **one** of the following into command line:
+6. Run your code by entering **one** of the following into command line:
 
 
   ./gff2_to_gff3.py
 
 
   python isoform_maker_windows.py
+  
+7. Follow the prompts in command line
 
 A succesful run with the sample input file will print the following:
 
