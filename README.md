@@ -19,6 +19,7 @@ Developer's Note: Please note that the windows version is in beta. I recommend r
 cd /Users/.../Apollo_Trackmaker/input
 
 Activate your code by entering the following into command line
+
 chmod +x gff2_to_gff3.py
 
 Run your code by entering **one** of the following into command line:
