@@ -26,4 +26,5 @@ Run your code by entering **one** of the following into command line:
   python isoform_maker_windows.py
 
 A succesful run with the sample input file will print the following:
+
 🧬 Success! 🪰 Here are the coordinates for your selected exons from sample_input_file.csv:
